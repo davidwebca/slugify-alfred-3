@@ -1,8 +1,8 @@
-# Slugify for Alfred 3
-Alfred 3 workflow to turn any text into a url compatible string of characters. Based on WordPress' function to create URL slugs.
+# Slugify for Alfred 3 and 4
+Alfred 3+ workflow to turn any text into a url compatible string of characters. Based on WordPress' function to create URL slugs.
 
 ## Installation
-Just download the zip [here](https://github.com/david-treblig/slugify-alfred-3/blob/master/Slugify.alfredworkflow?raw=true) and open the worfklow file with Alfred 3.
+Just download the zip [here](https://github.com/david-treblig/slugify-alfred-3/blob/master/Slugify.alfredworkflow?raw=true) and open the worfklow file with Alfred.
 
 ## Instructions
 Type ```slug ANYTHING THAT YOU WANT, even with accents like éàê```
