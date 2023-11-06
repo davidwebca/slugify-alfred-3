@@ -2,7 +2,13 @@
 Alfred 3+ workflow to turn any text into a url compatible string of characters. Based on WordPress' function to create URL slugs.
 
 ## Installation
-Just download the zip [here](https://github.com/david-treblig/slugify-alfred-3/blob/master/Slugify.alfredworkflow?raw=true) and open the worfklow file with Alfred.
+1. Just download the zip [here](https://github.com/david-treblig/slugify-alfred-3/blob/master/Slugify.alfredworkflow?raw=true) and open the worfklow file with Alfred.
+
+2. Make sure you have PHP installed to run the workflow (PHP isn't preinstalled after macOS Monterey). Easiest way to install PHP is using Homebrew:
+  
+    ```
+    brew install php
+    ```
 
 ## Instructions
 Type ```slug ANYTHING THAT YOU WANT, even with accents like éàê```
